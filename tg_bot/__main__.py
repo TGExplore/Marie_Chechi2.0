@@ -22,7 +22,7 @@ no one gonna help you 🤣🤣🤣🤣
 
 [My owner](tg://user?id={})
 [Deploy coad](https://t.me/nokkiirunnoippokittum)
-[Channel](buttonurl://https://t.me/joinchat/AAAAAE5f7pXfn6PG26LU5g)
+[Channel](https://t.me/joinchat/AAAAAE5f7pXfn6PG26LU5g)
  
 
 
