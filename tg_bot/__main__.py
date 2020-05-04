@@ -20,10 +20,6 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 PM_START_TEXT = """
 no one gonna help you 🤣🤣🤣🤣
 
-[My owner](tg://user?id={})
-[Deploy coad](https://t.me/nokkiirunnoippokittum)
-[Channel](https://t.me/joinchat/AAAAAE5f7pXfn6PG26LU5g)
- 
 
 
 
