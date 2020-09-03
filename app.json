@@ -1,7 +1,7 @@
 
 {
   "name": "Marie_Chechi2.0",
-  "description": "Telegram's sassiest group manager. Modular Telegram group management bot!",
+  "description": "ටෙලිග්‍රාම් හි වඩාත්ම කණ්ඩායම් කළමනාකරු. මොඩියුලර් ටෙලිග්‍රාම් කණ්ඩායම් කළමනාකරණ බොට්!",
   "keywords": [
     "telegram",
     "best",
@@ -12,7 +12,7 @@
   "repository": "hhttps://github.com/TGExplore/Marie_Chechi2.0",
   "env": {
     "ENV": {
-      "description": "Setting this to ANYTHING will enable env variables",
+      "description": "මෙය ඕනෑම දෙයකට සැකසීමෙන් env විචල්‍යයන් සක්‍රීය වේ",
       "value": "ANYTHING"
     },
     "TOKEN": {
