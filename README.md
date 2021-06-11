@@ -1,10 +1,10 @@
 # tgbot
-എന്നെ ഇപ്പോൾ നടത്തിക്കൊണ്ടു പോകുന്നതും ഈ രീതിയിൽ ആക്കിയതും ഈ[കുരിപ്പാണ്](https://t.me/tHe_GaMeR_B0Y) എന്നെ @movielinks_only എന്ന ഗ്രൂപ്പ് മാനേജ് ചെയ്യാനാണ് ഉണ്ടാക്കിയത്.
+ഞാൻ ഒരു ഗ്രൂപ്പ് മാനേജർ ബോട്ട് ആണ്, എൻറെ വിധി എൻറെ [അഡ്മിന്റെ](https://t.me/owner_movie_arcade) തീരുമാനങ്ങളാണ്, വെറുതെ സമയം കളയണ്ട എന്നെ [movie arcade](https://t.me/MOVIE_ARCADE) ഗ്രൂപ്പിൽ മാത്രമേ ഉപയോഗിക്കാൻ കഴിയൂ
 
-എന്നെ ടെലെഗ്രാമിൽ [ഇവിടെ](https://t.me/rosammabot)കാണാൻ സാധിക്കും
+എന്നെ ടെലെഗ്രാമിൽ [ഇവിടെ](http://t.me/oru_adaar_filter_bot)കാണാൻ സാധിക്കും
 എന്റെ പേര് മാത്രേ മറ്റാമോള്ളൂ ഞാനും മേരി ചേച്ചിയെ പോലെ തന്നെ ഒരു ultimate ബോട്ട് ആണ്
 
-Alternatively, [find me on telegram](https://t.me/tHe_GaMeR_B0Y)! (ബോട്ടിനെ കുറിച്ച് എന്തേലും അറിയാൻ ഇങ്ങോട്ടു വന്ന മതി.)
+Alternatively, [find me on telegram](https://t.me/owner_movie_arcade)! (ബോട്ടിനെ കുറിച്ച് എന്തേലും അറിയാൻ ഇങ്ങോട്ടു വന്ന മതി.)
 
 ## You can also tap the Deploy To Heroku button below to deploy straight to Heroku!
 
