@@ -18,8 +18,8 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-ഞാൻ ഒരു ഗ്രൂപ്പ് മാനേജർ ബോട്ട് ആണ്, എൻറെ വിധി എൻറെ അഡ്മിന്റെ(https://t.me/owner_movie_arcade) തീരുമാനങ്ങളാണ്,
-വെറുതെ സമയം കളയണ്ട എന്നെ movie arcade(https://t.me/MOVIE_ARCADE)ഗ്രൂപ്പിൽ മാത്രമേ ഉപയോഗിക്കാൻ കഴിയൂ
+ഞാൻ ഒരു ഗ്രൂപ്പ് മാനേജർ ബോട്ട് ആണ്, എൻറെ വിധി എൻറെ [അഡ്മിന്റെ](https://t.me/owner_movie_arcade) തീരുമാനങ്ങളാണ്,
+വെറുതെ സമയം കളയണ്ട എന്നെ [movie arcade](https://t.me/MOVIE_ARCADE)ഗ്രൂപ്പിൽ മാത്രമേ ഉപയോഗിക്കാൻ കഴിയൂ
 
 """
 
@@ -36,7 +36,7 @@ HELP_STRINGS = """
  - /settings:
    - in PM:നിങ്ങൾ സെറ്റ് ചെയ്തിട്ടുള്ള SETTINGS എന്തൊക്കെ ആണെന്ന് അറിയാൻ....
    - in a group:ഗ്രൂപ്പിൽ കൊടുത്താലും  PMൽ settings വരുന്നതാണ്....
-
+"""
 {}
 And the following:
 """.format(dispatcher.bot.first_name, "" if not ALLOW_EXCL else "\nഈ പറഞ്ഞിരിക്കുന്ന commandകൾ എല്ലാം  / അല്ലെങ്കിൽ ! വെച്ച് ഉപയോഗിക്കാവുന്നതാണ്...\n")
